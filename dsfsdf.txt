@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tengo a la mejor novia del mundo.
+=======
+tengo a la mejor novia del mundo.
+>>>>>>> 848db33ab1afa40808e4ccdd13478d8c0247347b
